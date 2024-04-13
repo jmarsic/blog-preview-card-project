@@ -17,6 +17,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
+In this section you can see how project looks at the end.
+
 ### The challenge
 
 Users should be able to:
@@ -25,13 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-**todo: add screenshots of app when done**
-![](./screenshot.jpg)
+![My finished desktop design preview](./design/my-desktop-preview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Live site URL](https://your-live-site-url.com)
 
 ## My process
 
@@ -65,14 +66,13 @@ body {
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+This was fun project and I will continue research fonts because I think that is big topic. In future I will try using different approach for minimalising and avoiding `FOUT` (flash of unstyled text) and `FOIT` (flash of inivisible text) using different font file types.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Self-hosting web font files](https://medium.com/going-fullstack/self-hosting-web-font-files-6a46bfc36ffd) - Thanks to Rebecca article I figured how to locally use fonts.
+- [Making google fonts faster](https://sia.codes/posts/making-google-fonts-faster/) - This is an amazing article which helped me to understand how page is loaded and how to improve performance to shorten that time.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@jmarsic](https://www.frontendmentor.io/profile/jmarsic)
